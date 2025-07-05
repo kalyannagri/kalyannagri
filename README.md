@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Kalyan
 
 💻 I'm an IT Engineer with **3 years of experience** including:
-- 🧪 7 months training in **Java** & **Selenium** (Automation Testing)
+- 🧪 7 months trained and worked in **Java** & **Selenium** (Automation Testing)
 - 🐧 2.4+ years of **L2 Production Application Linux System Support** (zLinux, PuTTY, VMware)
 - ⚙️ Familiar with **Shell Scripting**, **Postman**, **Power BI**, and **AI Tools**
 
