@@ -1,22 +1,32 @@
-### 👋 Hi there, I'm Kalyan
+👋 Hi there, I'm Kalyan!  
 
-💻 I'm an IT Engineer with **3 years of experience** including:
-- 🧪 7 months trained and worked in **Java** & **Selenium** (Automation Testing)
-- 🐧 2.4+ years of **L2 Production Application Linux System Support** (zLinux, PuTTY, VMware, New Relic, Splunk Alerting Tool)
-- ⚙️ Familiar with **Eclipse IDE**, **Shell Scripting**, **Postman API**, **Power BI using AI**, **Python Programming Language**  and **AI Tools**
+💻 **Automation Test Engineer** with 3+ years of IT experience, specializing in **Automation Testing with Selenium & Java**. Skilled in designing, executing, and maintaining automation frameworks with CI/CD integration.  
 
-🔧 Skilled in tools like:
-- Jira, Zendesk, GitHub, Excel, PowerPoint, Postman
+🔑 Key Highlights
+. 🧪 3 Years in Automation Testing – Strong expertise in Selenium WebDriver, Java, TestNG, Maven, Jenkins, and reporting tools like Extent Reports.
+. 📋 Manual Testing Expertise – Well-versed in SDLC, STLC, Agile/Scrum, Test Case Design, Test Execution, Defect Reporting, Regression, Smoke, Sanity, Compatibility, and UAT Testing.
+. 🔄 CI/CD Pipelines – Hands-on experience in running and monitoring automation suites using Jenkins for continuous testing and faster feedback cycles.
+. 🌐 API Testing – Hands-on with Postman for functional, regression, and validation testing of REST APIs.
+. 📊 Performance Testing Exposure – Familiar with load and performance testing concepts using tools like JMeter.
+. 🐧 Linux System Support (Secondary Skill) – 4 months of experience in log monitoring, patching, troubleshooting, and performance analysis using zLinux, PuTTY, VMware, New  Relic, Splunk.
 
-🚀 Currently exploring:
-- DevOps basics (CI/CD, Jenkins, Git)
-- Automation + AI tool integration
-- Building small test and support automation projects
+🛠️ Tech Stack
+- **Languages & Tools:** Java, Selenium, TestNG, Maven, Jenkins, Git, Postman  
+- **Monitoring Tools:** New Relic, Splunk  
+- **Other Skills:** Shell Scripting, Python, Jira, Confluence, Zendesk, Power BI (AI Integration)  
+- **Platforms:** Linux (zLinux, Ubuntu), Windows  
 
-📬 **Open to job opportunities** in:
-- QA Testing | Automation | Linux Support | DevOps (entry-level)
+📂 Featured Projects
+- 🔹 **Selenium Test Automation Framework** – Hybrid framework with Page Object Model (POM), TestNG, Jenkins CI/CD, and Extent Reports.  
+- 🔹 **API Test Collections** – Automated REST API testing using Postman with validations and reporting.  
+- 🔹 **Support Utilities** – Shell scripts for log monitoring and routine system tasks.  
 
-🧠 Fun fact: I’m passionate about learning, problem-solving, and Gym fitness!
+📬 Current Focus
+- 📌 Enhancing my **Automation Frameworks** with Playwright and API testing.  
+- 📌 Expanding into **Performance Testing (JMeter)**.  
+- 📌 Exploring **DevOps basics (YAML, pipelines, GitHub Actions)**.  
 
----
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kalyan-nagri-3b19561a0/)
+🤝 Open To
+- **QA / Automation Testing roles** (Selenium, API, CI/CD)  
+- **Secondary options**: Linux/DevOps Support (entry-level)  
+
