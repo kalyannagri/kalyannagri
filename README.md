@@ -4,12 +4,7 @@
 
 🔑 Key Highlights
 
-. 🧪 3 Years in Automation Testing – Strong expertise in Selenium WebDriver, Java, TestNG, Maven, Jenkins, and reporting tools like Extent Reports.
-. 📋 Manual Testing Expertise – Well-versed in SDLC, STLC, Agile/Scrum, Test Case Design, Test Execution, Defect Reporting, Regression, Smoke, Sanity, Compatibility, and UAT Testing.
-. 🔄 CI/CD Pipelines – Hands-on experience in running and monitoring automation suites using Jenkins for continuous testing and faster feedback cycles.
-. 🌐 API Testing – Hands-on with Postman for functional, regression, and validation testing of REST APIs.
-. 📊 Performance Testing Exposure – Familiar with load and performance testing concepts using tools like JMeter.
-. 🐧 Linux System Support (Secondary Skill) – 4 months of experience in log monitoring, patching, troubleshooting, and performance analysis using zLinux, PuTTY, VMware, New  Relic, Splunk.
+I bring 3 years of experience in Automation Testing with strong expertise in Selenium WebDriver, Java, TestNG, Maven, Jenkins, and Extent Reports. Skilled in Manual Testing, covering SDLC, STLC, Agile/Scrum, Test Case Design, Execution, Defect Reporting, Regression, Smoke, Sanity, Compatibility, and UAT Testing. Proficient in setting up and monitoring CI/CD pipelines using Jenkins for faster feedback cycles. Experienced in API Testing with Postman for functional, regression, and validation of REST APIs, along with exposure to Performance Testing concepts using JMeter. Additionally, I have 4 months of secondary experience in Linux System Support, including log monitoring, patching, troubleshooting, and performance analysis with zLinux, PuTTY, VMware, New Relic, and Splunk.
 
 🛠️ Tech Stack
 - **Languages & Tools:** Java, Selenium, TestNG, Maven, Jenkins, Git, Postman  
