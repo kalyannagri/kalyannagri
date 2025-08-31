@@ -3,6 +3,7 @@
 💻 **Automation Test Engineer** with 3+ years of IT experience, specializing in **Automation Testing with Selenium & Java**. Skilled in designing, executing, and maintaining automation frameworks with CI/CD integration.  
 
 🔑 Key Highlights
+
 . 🧪 3 Years in Automation Testing – Strong expertise in Selenium WebDriver, Java, TestNG, Maven, Jenkins, and reporting tools like Extent Reports.
 . 📋 Manual Testing Expertise – Well-versed in SDLC, STLC, Agile/Scrum, Test Case Design, Test Execution, Defect Reporting, Regression, Smoke, Sanity, Compatibility, and UAT Testing.
 . 🔄 CI/CD Pipelines – Hands-on experience in running and monitoring automation suites using Jenkins for continuous testing and faster feedback cycles.
